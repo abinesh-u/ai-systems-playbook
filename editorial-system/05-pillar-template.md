@@ -23,4 +23,4 @@ status: planned
 ## Sources
 ```
 
-A pillar coordinates a topic cluster; it does not duplicate every child guide.
+A pillar is a long-lived entry point and does not duplicate every child guide. Use a hub for an evolving collection rather than creating a new pillar.

@@ -2,7 +2,7 @@
 
 ## Position
 
-AI Systems Playbook is an engineering documentation platform for building reliable AI systems: agentic workflows, context and retrieval systems, model routing, and production operations.
+AI Systems Playbook is an engineering documentation platform for building reliable AI systems: agentic workflows, context and retrieval systems, model routing, and Production AI Systems.
 
 ## Audience
 

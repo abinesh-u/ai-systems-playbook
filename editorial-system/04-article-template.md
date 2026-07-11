@@ -7,6 +7,7 @@ description:
 audience:
 difficulty:
 primary_topic:
+pillar_or_hub:
 supporting_topics: []
 source_assets: []
 status: draft
