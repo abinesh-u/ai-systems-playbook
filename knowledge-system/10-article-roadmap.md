@@ -9,7 +9,7 @@ This is a sequencing architecture for future work, not article text. Publish onl
 | 3 | LangGraph state and workflow design | Builds on existing starter assets | gateway to orchestration cluster | supported |
 | 4 | Context engineering: memory, MCP, and knowledge access | Core cross-cluster concept | links agents to RAG and tools | supported, needs depth |
 | 5 | RAG foundations: embeddings, chunking, retrieval | Establishes prerequisite to enterprise RAG | supports evaluation and architecture | gap |
-| 6 | Hybrid retrieval and RAG evaluation | Creates measurable retrieval layer | links RAG to Production AI | gap / highest priority |
+| 6 | Hybrid retrieval and RAG evaluation | Creates measurable retrieval layer | links RAG to Production AI Systems | gap / highest priority |
 | 7 | Enterprise RAG service boundaries | Uses current microservices evidence | links retrieval to infrastructure | supported |
 | 8 | SLM-first routing decisions | Uses architecture and phi-2 material | links architecture to cost/latency | supported |
 | 9 | Production LLM observability and evaluation | Converts checklist into operational domain | links all implementation clusters | gap / highest priority |
