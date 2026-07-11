@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AI Systems Playbook Publication Package",
+  "type": "object",
+  "required": ["id", "status", "content_type", "owner", "title", "slug", "seo", "evidence", "links", "reviews", "publication"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+    "status": {"enum": ["planning", "ready-for-draft", "ready-for-publishing"]},
+    "content_type": {"enum": ["article", "pillar", "tutorial", "case-study", "reference"]},
+    "owner": {"type": "string"},
+    "title": {"type": "string"},
+    "slug": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "seo": {"type": "object", "required": ["intent", "description", "canonical_url"]},
+    "evidence": {"type": "object", "required": ["research_records", "archive_assets", "claim_limits"]},
+    "links": {"type": "object", "required": ["parent", "related", "references"]},
+    "reviews": {"type": "object", "required": ["technical", "architecture", "editorial", "seo", "readiness"]},
+    "publication": {"type": "object", "required": ["diagram_plan", "project_integration", "adaptation_notes"]}
+  }
+}
