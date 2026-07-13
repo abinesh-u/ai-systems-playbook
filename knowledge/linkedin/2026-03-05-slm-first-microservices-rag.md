@@ -10,7 +10,7 @@ technologies: ["RAG (Retrieval Augmented Generation)", "Microservices", "BM25", 
 projects: ["SLM-First Enterprise RAG System"]
 audience: "AI architects, ML engineers (advanced)"
 difficulty: "Advanced"
-related_content: ["2026-03-01-uber-enhanced-agentic-rag.md", "2026-02-28-slm-fine-tuning-phi2.md"]
+related_content: ["2026-03-01-uber-enhanced-agentic-rag.md", "2026-02-28-slm-fine-tuning-phi2-router.md"]
 source_file: "linkedin/2026-03-05-slm-first-microservices-rag.md"
 ---
 From Notebook RAG to Microservices: Designing Clear Service Boundaries

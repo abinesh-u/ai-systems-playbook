@@ -10,7 +10,7 @@ technologies: ["LangGraph", "LangChain", "LLM"]
 projects: []
 audience: "Developers, AI engineers (beginner-intermediate)"
 difficulty: "Beginner-Intermediate"
-related_content: ["2024-12-18-langgraph-state-management.md", "2024-12-16-agentic-ai-langgraph-intro.md"]
+related_content: ["2024-11-10-langgraph-state-management.md", "2024-11-07-agentic-ai-langgraph-intro.md"]
 source_file: "linkedin/2026-06-05-langgraph-learning-roadmap.md"
 ---
 Most people don't struggle with LangGraph because it's too advanced.

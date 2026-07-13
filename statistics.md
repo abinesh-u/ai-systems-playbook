@@ -135,13 +135,12 @@ source_file: ""
 | Value | Count |
 | --- | ---: |
 | Unspecified | 6 |
+| LangGraph | 4 |
 | LLM (Large Language Models) | 3 |
-| LangGraph | 3 |
 | BM25 | 2 |
 | MCP (Model Context Protocol) | 2 |
 | RAG (Retrieval Augmented Generation) | 2 |
 | RNN (Recurrent Neural Network) | 2 |
-| AI/ML frameworks | 1 |
 | Adversarial training | 1 |
 | Agent workflows | 1 |
 | Agentic AI | 1 |
@@ -155,6 +154,7 @@ source_file: ""
 | Edge | 1 |
 | Edge inference | 1 |
 | Evaluation pipelines | 1 |
+| FastAPI | 1 |
 | Fine-tuning (end-to-end) | 1 |
 | Forget Gate | 1 |
 | GAN (Generative Adversarial Network) | 1 |
@@ -188,10 +188,12 @@ source_file: ""
 | Pre-retrieval filtering | 1 |
 | Probability score output | 1 |
 | Python | 1 |
+| Qdrant | 1 |
 | RAG | 1 |
 | RAG output scoring | 1 |
 | RBAC | 1 |
 | Random noise vector (Z) | 1 |
+| React | 1 |
 | Rerankers | 1 |
 | SLM (Small Language Models) | 1 |
 | SLM (Small Language Models, 3B) | 1 |
@@ -199,7 +201,9 @@ source_file: ""
 | Softmax | 1 |
 | State | 1 |
 | State management | 1 |
+| Tailwind | 1 |
 | Tool call formatting | 1 |
+| TypeScript | 1 |
 | Vanishing gradient problem | 1 |
 | Vector Databases | 1 |
 | Vector search (hybrid retrieval) | 1 |
@@ -219,13 +223,3 @@ Notes:
 - Profile, reference, and legacy-index assets may have a collection date in their original front matter, but their publication date is not stated; `date` is left blank rather than conflating the two.
 - No projects are explicitly assigned in the source metadata for 19 assets.
 - This report counts archive assets only; structural `.gitkeep` files are excluded.
-
-## Content Integrity Notes
-
-The following `related_content` values were preserved exactly from the source but do not resolve to an imported filename:
-
-- `knowledge/linkedin/2026-03-05-slm-first-microservices-rag.md` → `2026-02-28-slm-fine-tuning-phi2.md`
-- `knowledge/linkedin/2026-06-05-langgraph-learning-roadmap.md` → `2024-12-18-langgraph-state-management.md`
-- `knowledge/linkedin/2026-06-05-langgraph-learning-roadmap.md` → `2024-12-16-agentic-ai-langgraph-intro.md`
-- `knowledge/linkedin/2026-06-09-llm-production-checklist.md` → `2026-03-20-systems-thinking-ai-engineers.md`
-- `knowledge/linkedin/2026-07-02-agentic-engineering-website.md` → `2026-06-25-future-of-ai-designing-systems.md`

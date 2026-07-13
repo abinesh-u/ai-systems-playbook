@@ -10,7 +10,7 @@ technologies: ["LLM (Large Language Models)", "Observability tooling", "Evaluati
 projects: []
 audience: "ML engineers, AI leads, engineering managers"
 difficulty: "Intermediate"
-related_content: ["2026-03-20-systems-thinking-ai-engineers.md"]
+related_content: ["2026-02-20-systems-thinking-ai-engineers.md"]
 source_file: "linkedin/2026-06-09-llm-production-checklist.md"
 ---
 Most LLM projects don't fail because the model is bad.

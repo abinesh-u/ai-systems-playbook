@@ -1,0 +1,41 @@
+{
+  "id": "harness-engineering-flagship",
+  "status": "ready-for-publishing",
+  "content_type": "pillar",
+  "owner": "AI System Architecture",
+  "title": "Harness Engineering: The Missing Reliability Layer in Agentic AI Systems",
+  "slug": "harness-engineering",
+  "seo": {
+    "intent": "Establish Harness Engineering as a broad architectural discipline and reliability framework for Agentic AI.",
+    "description": "Learn the principles of Harness Engineering, the missing reliability layer in Agentic AI systems. Explore patterns for combating state degradation and context drift.",
+    "canonical_url": "https://ai-systems-playbook.com/harness-engineering"
+  },
+  "evidence": {
+    "research_records": ["rr-005-harness-engineering"],
+    "archive_assets": [
+      "knowledge/linkedin/2026-03-05-slm-first-microservices-rag.md",
+      "knowledge/linkedin/2026-03-10-context-engineering-memory-mcp.md"
+    ],
+    "claim_limits": [
+      "Does not address low-level API changes of specific libraries",
+      "Does not prescribe specific vendor monitoring platforms"
+    ]
+  },
+  "links": {
+    "parent": "AI System Architecture",
+    "related": ["Agent Systems", "Context Engineering", "Production AI Systems"],
+    "references": ["glossary/harness-engineering", "glossary/state-degradation", "glossary/schema-guard"]
+  },
+  "reviews": {
+    "technical": "pass",
+    "architecture": "pass",
+    "editorial": "pass",
+    "seo": "pass",
+    "readiness": "pass"
+  },
+  "publication": {
+    "diagram_plan": "HE-001 (Agent Runtime Harness Architecture)",
+    "project_integration": "Not applicable",
+    "adaptation_notes": "Distill website articles, tutorials, and social media posts from this canonical pillar document."
+  }
+}

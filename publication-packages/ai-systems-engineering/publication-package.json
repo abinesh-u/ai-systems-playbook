@@ -1,0 +1,42 @@
+{
+  "id": "ai-systems-engineering-flagship",
+  "status": "ready-for-publishing",
+  "content_type": "pillar",
+  "owner": "AI Systems Engineering",
+  "title": "AI Systems Engineering: A Practical Guide to Designing Production AI Systems",
+  "slug": "ai-systems-engineering",
+  "seo": {
+    "intent": "Comprehensive guide to AI systems engineering and production ML architecture",
+    "description": "A practical guide to designing, implementing, and operating production AI systems. Learn the shift from building models to engineering reliable AI architecture.",
+    "canonical_url": "https://ai-systems-playbook.com/ai-systems-engineering"
+  },
+  "evidence": {
+    "research_records": ["rr-004-production-evaluation"],
+    "archive_assets": [
+      "knowledge/linkedin/2026-02-20-systems-thinking-ai-engineers.md",
+      "knowledge/linkedin/2026-06-09-llm-production-checklist.md",
+      "knowledge/linkedin/2026-06-25-future-of-ai-systems-of-intelligence.md"
+    ],
+    "claim_limits": [
+      "Does not prescribe specific vendor tools for observability or evaluation",
+      "Does not cover multimodal agent architectures"
+    ]
+  },
+  "links": {
+    "parent": "AI Systems Engineering",
+    "related": ["Agent Systems", "Knowledge & Retrieval Systems", "AI System Architecture", "Production AI Systems"],
+    "references": ["glossary/ai-systems-engineering", "glossary/observability", "glossary/evaluation-pipeline"]
+  },
+  "reviews": {
+    "technical": "pass",
+    "architecture": "pass",
+    "editorial": "pass",
+    "seo": "pass",
+    "readiness": "pass"
+  },
+  "publication": {
+    "diagram_plan": "ASE-001 (AI Systems Engineering Lifecycle)",
+    "project_integration": "Not applicable: no validated project relationship in archive",
+    "adaptation_notes": "Variants created for Medium, LinkedIn, and Newsletter."
+  }
+}
