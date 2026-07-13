@@ -1,0 +1,13 @@
+{
+  "id": "content-id",
+  "status": "planning",
+  "content_type": "article",
+  "owner": "Primary pillar or hub",
+  "title": "",
+  "slug": "",
+  "seo": {"intent": "", "description": "", "canonical_url": ""},
+  "evidence": {"research_records": [], "archive_assets": [], "claim_limits": []},
+  "links": {"parent": "", "related": [], "references": []},
+  "reviews": {"technical": "pending", "architecture": "pending", "editorial": "pending", "seo": "pending", "readiness": "pending"},
+  "publication": {"diagram_plan": "", "project_integration": "", "adaptation_notes": ""}
+}

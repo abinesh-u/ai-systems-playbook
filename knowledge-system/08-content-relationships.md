@@ -7,14 +7,14 @@ The following matrix records relationships without changing source metadata. “
 | 2024 LangGraph intro | state management, roadmap | LangGraph fundamentals | tutorial / reference | Agent Orchestration |
 | 2024 LangGraph state | intro, roadmap | state and workflow control | tutorial / reference | Agent Orchestration |
 | 2024 LSTM, GAN, attention | each other | ML foundations | tutorial series | AI/LLM Foundations |
-| Systems thinking | production checklist | production mindset | reference | Production AI |
+| Systems thinking | production checklist | production mindset | reference | Production AI Systems |
 | SLM-first architecture | phi-2 routing, EAg-RAG, microservices | model specialization | pillar / case study | SLM-First AI Systems |
 | phi-2 router | SLM-first, microservices | routing and local inference | case study / tutorial | SLM-First AI Systems |
 | EAg-RAG pattern | SLM-first, microservices, context | layered retrieval | case study / reference | Enterprise RAG |
 | Microservices RAG | EAg-RAG, phi-2, context | service boundaries and RAG | tutorial / case study | Enterprise RAG |
 | Context engineering | microservices RAG, EAg-RAG, systems of intelligence | memory/tools/RAG links | pillar / reference | Context Engineering |
 | LangGraph roadmap | LangGraph intro/state, production checklist | learning sequence | reference | Agent Orchestration |
-| Production checklist | systems thinking, all architecture assets | production controls | pillar / reference | Production AI |
+| Production checklist | systems thinking, all architecture assets | production controls | pillar / reference | Production AI Systems |
 | Systems of intelligence | LangGraph, context, agentic engineering | multi-agent coordination | pillar / reference | AI Systems Architecture |
 | Agentic website build | systems of intelligence, website | multi-agent role decomposition | case study | Agentic Engineering |
 | Website / LinkedIn / GitHub / Medium profiles | professional surface assets | none | reference page | Publication System |

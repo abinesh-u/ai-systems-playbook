@@ -1,0 +1,13 @@
+{
+  "id": "pilot-rag-foundations",
+  "status": "ready-for-draft",
+  "content_type": "article",
+  "owner": "Knowledge & Retrieval Systems",
+  "title": "RAG Foundations: Embeddings, Chunking, and Retrieval",
+  "slug": "rag-foundations-embeddings-chunking-retrieval",
+  "seo": {"intent": "RAG foundations", "description": "Production package for RAG foundations.", "canonical_url": "/rag-foundations-embeddings-chunking-retrieval"},
+  "evidence": {"research_records": ["RR-001", "RR-002", "RR-003"], "archive_assets": ["knowledge/linkedin/2026-03-01-uber-enhanced-agentic-rag.md", "knowledge/linkedin/2026-03-05-slm-first-microservices-rag.md"], "claim_limits": ["No universal embedding, chunking, or metric selection."]},
+  "links": {"parent": "Knowledge & Retrieval Systems", "related": ["Enterprise RAG Architecture"], "references": ["Embeddings glossary", "Chunking decision framework", "Retrieval metrics"]},
+  "reviews": {"technical": "pending", "architecture": "passed", "editorial": "pending", "seo": "pending", "readiness": "pending"},
+  "publication": {"diagram_plan": "rag-foundations-retrieval-flow", "project_integration": "not applicable: no validated project relationship", "adaptation_notes": "Canonical website page before derivatives."}
+}
