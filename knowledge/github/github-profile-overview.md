@@ -1,36 +1,38 @@
 ---
-title: "GitHub Profile: abi-commits"
+title: "GitHub Profile: abinesh-u"
 platform: "GitHub"
-url: "https://github.com/abi-commits"
+url: "https://github.com/abinesh-u"
 date: ""
 content_type: "GitHub Profile"
 topics: ["Open Source", "AI Engineering", "Python", "LLM Systems"]
 tags: []
-technologies: ["Python", "AI/ML frameworks"]
+technologies: ["Python", "TypeScript", "React", "Tailwind", "LangGraph", "Qdrant", "FastAPI"]
 projects: []
 audience: ""
 difficulty: ""
 related_content: []
 source_file: "github/github-profile-overview.md"
 ---
-# GitHub Profile: abi-commits
+# GitHub Profile: abinesh-u
 
 ## URL
-https://github.com/abi-commits
+https://github.com/abinesh-u
+
+## Headline
+AI Engineer · Building agentic AI systems, multi-agent architectures, and production-grade AI applications.
+
+## Flagship Projects
+*   **[AegisAI](https://github.com/abinesh-u/AegisAI)**: Enterprise fraud and trust intelligence: explainable reasoning, calibrated confidence, governed AI decision-making (Python).
+*   **[athena-ai](https://github.com/abinesh-u/athena-ai)**: SLM-first RAG engine: Qwen2.5 query optimizer, BGE reranking, Qdrant vector search, document RBAC, Kubernetes microservices (Python).
+*   **[Hermes_AI](https://github.com/abinesh-u/Hermes_AI)**: Real-time voice AI orchestration: Deepgram STT, Gemini LLM, Agentic RAG, Modal GPU TTS. Low-latency telephony pipeline (Python).
+*   **[abi-portfolio](https://github.com/abinesh-u/abi-portfolio)**: Personal portfolio site for Abinesh — AI Engineer. Built with TypeScript, React, and Tailwind. Live at [abinesh.blog](https://abinesh.blog) (TypeScript).
+*   **[agentic-patterns](https://github.com/abinesh-u/agentic-patterns)**: Practical implementations of core agentic AI patterns: planning, memory, tool use, reflection, and multi-agent coordination with LangGraph (Python).
+*   **[fusion-cli](https://github.com/abinesh-u/fusion-cli)**: CLI tool that scaffolds production-ready FastAPI MVPs from a product idea using GitHub Copilot and structured prompting (Python).
 
 ## Referenced In
-- LinkedIn profile (headline mentions Python)
+- LinkedIn profile
 - GitHub Unwrapped 2024 post (Nov 2024)
 
-## Known Projects (referenced in LinkedIn content)
-- SLM-First Enterprise RAG System (phi-2 fine-tuning, intent routing)
-- Agent workflow projects (LangGraph-based)
-- abinesh.blog (personal website built with agentic engineering)
-
 ## Note
-Full repository inventory requires direct GitHub API access or authenticated scraping.
-Repositories to investigate: RAG system, phi-2 fine-tuning code, LangGraph agent examples.
+Known repositories updated from the public profile overview.
 
-## GitHub Activity Signal
-- GitHub Unwrapped 2024 shared publicly (Nov 2024)
-- Active in AI/ML open source contributions

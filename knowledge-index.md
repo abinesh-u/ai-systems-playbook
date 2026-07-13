@@ -42,7 +42,7 @@ Generated from the supplied archive. The source copy is preserved outside this r
 | Nobody Sees This Part — Building in Public | `knowledge/linkedin/2026-07-08-nobody-sees-this-part.md` | LinkedIn | 2026-07-08 | Personal Brand, Build in Public, Consistency | abinesh.blog (personal website) |
 | Abinesh U — LinkedIn Profile Metadata | `knowledge/metadata/linkedin-profile.md` | LinkedIn | — | — | — |
 | External Sources Referenced in Content | `knowledge/references/external-sources-cited.md` | — | — | — | — |
-| GitHub Profile: abi-commits | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 | Knowledge Archive — Master Index | `knowledge/references/knowledge-index.md` | — | — | — | — |
 | Medium Profile: @abinesh | `knowledge/medium/medium-profile-overview.md` | Medium | — | AI Engineering, Machine Learning | — |
 | abinesh.blog — Homepage | `knowledge/website/abinesh-blog-homepage.md` | Personal Website | — | AI Engineering, Agentic AI, LLM Systems, RAG, MLOps, Personal Brand | — |
@@ -53,7 +53,7 @@ Generated from the supplied archive. The source copy is preserved outside this r
 
 | Title | Filename | Platform | Date | Topics | Project |
 | --- | --- | --- | --- | --- | --- |
-| GitHub Profile: abi-commits | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 
 ### LinkedIn
 
@@ -105,7 +105,7 @@ Generated from the supplied archive. The source copy is preserved outside this r
 | Title | Filename | Platform | Date | Topics | Project |
 | --- | --- | --- | --- | --- | --- |
 | Building vs. Designing: Systems Thinking for AI Engineers | `knowledge/linkedin/2026-02-20-systems-thinking-ai-engineers.md` | LinkedIn | 2026-02-20 | Systems Thinking, AI Engineering, MLOps, Production AI, Mindset | — |
-| GitHub Profile: abi-commits | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 | Medium Profile: @abinesh | `knowledge/medium/medium-profile-overview.md` | Medium | — | AI Engineering, Machine Learning | — |
 | abinesh.blog — Homepage | `knowledge/website/abinesh-blog-homepage.md` | Personal Website | — | AI Engineering, Agentic AI, LLM Systems, RAG, MLOps, Personal Brand | — |
 
@@ -276,7 +276,7 @@ Generated from the supplied archive. The source copy is preserved outside this r
 
 | Title | Filename | Platform | Date | Topics | Project |
 | --- | --- | --- | --- | --- | --- |
-| GitHub Profile: abi-commits | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 | abinesh.blog — Homepage | `knowledge/website/abinesh-blog-homepage.md` | Personal Website | — | AI Engineering, Agentic AI, LLM Systems, RAG, MLOps, Personal Brand | — |
 
 ### LSTM
@@ -370,7 +370,7 @@ Generated from the supplied archive. The source copy is preserved outside this r
 | Title | Filename | Platform | Date | Topics | Project |
 | --- | --- | --- | --- | --- | --- |
 | GitHub Unwrapped 2024 | `knowledge/linkedin/2024-11-12-github-unwrapped.md` | LinkedIn | 2024-11-12 | Personal Brand, GitHub, Open Source | — |
-| GitHub Profile: abi-commits | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 
 ### Open Source AI
 
@@ -398,7 +398,7 @@ Generated from the supplied archive. The source copy is preserved outside this r
 
 | Title | Filename | Platform | Date | Topics | Project |
 | --- | --- | --- | --- | --- | --- |
-| GitHub Profile: abi-commits | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 
 ### RAG
 
@@ -524,7 +524,7 @@ Generated from the supplied archive. The source copy is preserved outside this r
 | The Future of AI: Designing Systems of Intelligence | `knowledge/linkedin/2026-06-25-future-of-ai-systems-of-intelligence.md` | LinkedIn | 2026-06-25 | Multi-Agent Systems, Agent Orchestration, AI System Design, Intelligence Infrastructure | — |
 | Abinesh U — LinkedIn Profile Metadata | `knowledge/metadata/linkedin-profile.md` | LinkedIn | — | — | — |
 | External Sources Referenced in Content | `knowledge/references/external-sources-cited.md` | — | — | — | — |
-| GitHub Profile: abi-commits | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 | Knowledge Archive — Master Index | `knowledge/references/knowledge-index.md` | — | — | — | — |
 | Medium Profile: @abinesh | `knowledge/medium/medium-profile-overview.md` | Medium | — | AI Engineering, Machine Learning | — |
 | abinesh.blog — Homepage | `knowledge/website/abinesh-blog-homepage.md` | Personal Website | — | AI Engineering, Agentic AI, LLM Systems, RAG, MLOps, Personal Brand | — |
@@ -652,18 +652,12 @@ Generated from the supplied archive. The source copy is preserved outside this r
 | --- | --- | --- | --- | --- | --- |
 | Abinesh U — LinkedIn Profile Metadata | `knowledge/metadata/linkedin-profile.md` | LinkedIn | — | — | — |
 | External Sources Referenced in Content | `knowledge/references/external-sources-cited.md` | — | — | — | — |
-| GitHub Profile: abi-commits | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 | Knowledge Archive — Master Index | `knowledge/references/knowledge-index.md` | — | — | — | — |
 | Medium Profile: @abinesh | `knowledge/medium/medium-profile-overview.md` | Medium | — | AI Engineering, Machine Learning | — |
 | abinesh.blog — Homepage | `knowledge/website/abinesh-blog-homepage.md` | Personal Website | — | AI Engineering, Agentic AI, LLM Systems, RAG, MLOps, Personal Brand | — |
 
 ## By Technology
-
-### AI/ML frameworks
-
-| Title | Filename | Platform | Date | Topics | Project |
-| --- | --- | --- | --- | --- | --- |
-| GitHub Profile: abi-commits | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 
 ### Adversarial training
 
@@ -749,6 +743,12 @@ Generated from the supplied archive. The source copy is preserved outside this r
 | Title | Filename | Platform | Date | Topics | Project |
 | --- | --- | --- | --- | --- | --- |
 | Most LLM Projects Fail in Production — Not Development | `knowledge/linkedin/2026-06-09-llm-production-checklist.md` | LinkedIn | 2026-06-09 | MLOps, LLM Engineering, Production AI, Observability, Evaluation | — |
+
+### FastAPI
+
+| Title | Filename | Platform | Date | Topics | Project |
+| --- | --- | --- | --- | --- | --- |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 
 ### Fine-tuning (end-to-end)
 
@@ -873,6 +873,7 @@ Generated from the supplied archive. The source copy is preserved outside this r
 | Embracing Agentic AI with LangGraph: Core Components | `knowledge/linkedin/2024-11-07-agentic-ai-langgraph-intro.md` | LinkedIn | 2024-11-07 | LangGraph, Agentic AI, Workflow Automation, LLM Integration | — |
 | Deep Dive: State Management Techniques in LangGraph | `knowledge/linkedin/2024-11-10-langgraph-state-management.md` | LinkedIn | 2024-11-10 | LangGraph, State Management, Agent Systems, Workflow Orchestration | — |
 | The Right Way to Learn LangGraph | `knowledge/linkedin/2026-06-05-langgraph-learning-roadmap.md` | LinkedIn | 2026-06-05 | LangGraph, Agent Orchestration, Multi-Agent Systems, Learning Roadmap | — |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 
 ### Local inference
 
@@ -969,7 +970,13 @@ Generated from the supplied archive. The source copy is preserved outside this r
 
 | Title | Filename | Platform | Date | Topics | Project |
 | --- | --- | --- | --- | --- | --- |
-| GitHub Profile: abi-commits | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
+
+### Qdrant
+
+| Title | Filename | Platform | Date | Topics | Project |
+| --- | --- | --- | --- | --- | --- |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 
 ### RAG
 
@@ -1008,6 +1015,12 @@ Generated from the supplied archive. The source copy is preserved outside this r
 | Title | Filename | Platform | Date | Topics | Project |
 | --- | --- | --- | --- | --- | --- |
 | Generative Adversarial Networks (GANs) Explained | `knowledge/linkedin/2024-11-20-gans-explained.md` | LinkedIn | 2024-11-20 | Deep Learning, GANs, Generative AI, Neural Networks | — |
+
+### React
+
+| Title | Filename | Platform | Date | Topics | Project |
+| --- | --- | --- | --- | --- | --- |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 
 ### Rerankers
 
@@ -1051,11 +1064,23 @@ Generated from the supplied archive. The source copy is preserved outside this r
 | --- | --- | --- | --- | --- | --- |
 | Deep Dive: State Management Techniques in LangGraph | `knowledge/linkedin/2024-11-10-langgraph-state-management.md` | LinkedIn | 2024-11-10 | LangGraph, State Management, Agent Systems, Workflow Orchestration | — |
 
+### Tailwind
+
+| Title | Filename | Platform | Date | Topics | Project |
+| --- | --- | --- | --- | --- | --- |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
+
 ### Tool call formatting
 
 | Title | Filename | Platform | Date | Topics | Project |
 | --- | --- | --- | --- | --- | --- |
 | SLM-First Architecture: A Quiet Shift in Agentic AI Systems | `knowledge/linkedin/2026-02-25-slm-first-architecture.md` | LinkedIn | 2026-02-25 | SLM Architecture, Agentic AI, AI Infrastructure, Cost Optimization | SLM-First Enterprise RAG System |
+
+### TypeScript
+
+| Title | Filename | Platform | Date | Topics | Project |
+| --- | --- | --- | --- | --- | --- |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 
 ### Unspecified
 
@@ -1136,7 +1161,7 @@ Generated from the supplied archive. The source copy is preserved outside this r
 
 | Title | Filename | Platform | Date | Topics | Project |
 | --- | --- | --- | --- | --- | --- |
-| GitHub Profile: abi-commits | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
+| GitHub Profile: abinesh-u | `knowledge/github/github-profile-overview.md` | GitHub | — | Open Source, AI Engineering, Python, LLM Systems | — |
 
 ### Learning Roadmap / Technical Guide
 

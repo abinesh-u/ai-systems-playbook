@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#757575"/>
+    </marker>
+    <marker id="arrow-dashed" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#9e9e9e"/>
+    </marker>
+    <style>
+      .bg-blue { fill: #e3f2fd; stroke: #1976d2; stroke-width: 2px; rx: 8px; }
+      .bg-green { fill: #e8f5e9; stroke: #388e3c; stroke-width: 2px; rx: 8px; }
+      .bg-amber { fill: #fff3e0; stroke: #f57c00; stroke-width: 2px; rx: 8px; }
+      .bg-red { fill: #ffebee; stroke: #d32f2f; stroke-width: 2px; rx: 8px; }
+      .bg-gray { fill: #f5f5f5; stroke: #9e9e9e; stroke-width: 2px; rx: 8px; }
+      .boundary { fill: none; stroke: #e0e0e0; stroke-width: 2px; stroke-dasharray: 8 4; rx: 12px; }
+      .text-main { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; fill: #212121; text-anchor: middle; dominant-baseline: middle; }
+      .text-sm { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 11px; fill: #616161; text-anchor: middle; dominant-baseline: middle; }
+      .text-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #212121; }
+      .line { stroke: #757575; stroke-width: 2px; fill: none; marker-end: url(#arrow); }
+      .line-dashed { stroke: #9e9e9e; stroke-width: 2px; fill: none; stroke-dasharray: 6 4; marker-end: url(#arrow-dashed); }
+    </style>
+  </defs>
+
+  <!-- Title & Legend -->
+  <text x="40" y="40" class="text-title">ASE-001: AI Systems Engineering Lifecycle</text>
+  
+  <rect x="800" y="20" width="160" height="110" class="bg-gray" stroke-dasharray="4 2"/>
+  <text x="880" y="35" class="text-main" style="font-size: 12px">Legend</text>
+  <rect x="810" y="48" width="16" height="16" class="bg-blue" />
+  <text x="835" y="56" class="text-sm" text-anchor="start">Process / Service</text>
+  <rect x="810" y="72" width="16" height="16" class="bg-green" />
+  <text x="835" y="80" class="text-sm" text-anchor="start">Validated State</text>
+  <rect x="810" y="96" width="16" height="16" class="bg-amber" />
+  <text x="835" y="104" class="text-sm" text-anchor="start">Decision / Safety</text>
+
+  <!-- System Boundary -->
+  <rect x="180" y="100" width="700" height="420" class="boundary" />
+  <text x="530" y="120" class="text-sm" style="font-weight: 600;">Production AI System Boundary</text>
+
+  <!-- Nodes -->
+  <!-- External Input -->
+  <rect x="30" y="220" width="120" height="50" class="bg-gray" />
+  <text x="90" y="245" class="text-main">User Input</text>
+
+  <!-- Orchestration -->
+  <rect x="220" y="220" width="160" height="50" class="bg-blue" />
+  <text x="300" y="245" class="text-main">Orchestration / Routing</text>
+
+  <!-- Guardrails -->
+  <rect x="440" y="220" width="140" height="50" class="bg-amber" />
+  <text x="510" y="245" class="text-main">Guardrails</text>
+
+  <!-- Fallback -->
+  <rect x="440" y="140" width="140" height="50" class="bg-red" />
+  <text x="510" y="165" class="text-main">Fallback / Degrade</text>
+
+  <!-- Model Inference -->
+  <rect x="640" y="220" width="140" height="50" class="bg-blue" />
+  <text x="710" y="245" class="text-main">Model Inference</text>
+
+  <!-- Vector Store -->
+  <rect x="230" y="320" width="140" height="50" class="bg-green" />
+  <text x="300" y="345" class="text-main">Vector Store (RAG)</text>
+
+  <!-- Versioned Model -->
+  <rect x="640" y="320" width="140" height="50" class="bg-green" />
+  <text x="710" y="345" class="text-main">Versioned Model</text>
+
+  <!-- Evaluation Gate -->
+  <rect x="640" y="140" width="140" height="50" class="bg-amber" />
+  <text x="710" y="165" class="text-main">Evaluation Gate</text>
+
+  <!-- Telemetry / Observability -->
+  <rect x="420" y="420" width="180" height="50" class="bg-gray" />
+  <text x="510" y="445" class="text-main">Telemetry / Observability</text>
+
+  <!-- Versioned Dataset -->
+  <rect x="190" y="420" width="150" height="50" class="bg-green" />
+  <text x="265" y="445" class="text-main">Versioned Dataset</text>
+
+  <!-- Data Ingestion -->
+  <rect x="30" y="420" width="120" height="50" class="bg-blue" />
+  <text x="90" y="445" class="text-main">Data Ingestion</text>
+
+  <!-- Edges -->
+  <!-- Input -> Orchestration -->
+  <path d="M 150 245 L 210 245" class="line" />
+  
+  <!-- Orchestration -> Guardrails -->
+  <path d="M 380 245 L 430 245" class="line" />
+
+  <!-- Guardrails -> Model -->
+  <path d="M 580 245 L 630 245" class="line" />
+  <text x="605" y="235" class="text-sm">Pass</text>
+
+  <!-- Guardrails -> Fallback -->
+  <path d="M 510 220 L 510 200" class="line" />
+  <text x="525" y="210" class="text-sm">Fail</text>
+
+  <!-- Fallback -> User Input (Return Error) -->
+  <path d="M 440 165 L 90 165 L 90 210" class="line-dashed" />
+
+  <!-- Orchestration <-> Vector Store -->
+  <path d="M 300 270 L 300 310" class="line" />
+  <path d="M 320 320 L 320 280" class="line" />
+
+  <!-- Model Inference <-> Versioned Model -->
+  <path d="M 710 320 L 710 280" class="line-dashed" />
+  
+  <!-- Model Inference -> Evaluation Gate (Offline) -->
+  <path d="M 710 220 L 710 200" class="line-dashed" />
+
+  <!-- Model -> Output (Arrow out of boundary) -->
+  <path d="M 780 245 L 910 245" class="line" />
+  <text x="845" y="235" class="text-sm">System Output</text>
+
+  <!-- Telemetry Traces (from Orchestration, Guardrails, Model) -->
+  <path d="M 300 270 L 300 300 L 410 300 L 410 435 L 420 435" class="line-dashed" />
+  <path d="M 510 270 L 510 410" class="line-dashed" />
+  <path d="M 710 270 L 710 390 L 580 390 L 580 420" class="line-dashed" />
+
+  <!-- Telemetry -> Dataset (Feedback Loop) -->
+  <path d="M 420 445 L 350 445" class="line" />
+  <text x="385" y="435" class="text-sm">Feedback</text>
+
+  <!-- Dataset -> Ingestion -->
+  <path d="M 190 445 L 160 445" class="line" />
+
+  <!-- Ingestion -> Vector Store & Model -->
+  <path d="M 90 420 L 90 345 L 220 345" class="line" />
+  <path d="M 90 420 L 90 380 L 150 380 L 150 540 L 840 540 L 840 345 L 790 345" class="line" />
+  <text x="480" y="530" class="text-sm">Continuous Training / Indexing Loop</text>
+
+</svg>

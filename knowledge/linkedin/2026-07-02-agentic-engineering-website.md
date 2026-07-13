@@ -10,7 +10,7 @@ technologies: ["Agentic AI", "Multi-Agent Orchestration"]
 projects: ["abinesh.blog (personal website)"]
 audience: "AI engineers, developers, builders"
 difficulty: "Intermediate"
-related_content: ["2026-06-25-future-of-ai-designing-systems.md"]
+related_content: ["2026-06-25-future-of-ai-systems-of-intelligence.md"]
 source_file: "linkedin/2026-07-02-agentic-engineering-website.md"
 ---
 I built my personal website in hours. The secret was Agentic Engineering.

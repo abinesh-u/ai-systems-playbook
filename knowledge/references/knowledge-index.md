@@ -53,7 +53,7 @@ source_file: "knowledge-index.md"
 ### 1.3 GitHub
 | File | Title | URL |
 |------|-------|-----|
-| `github/github-profile-overview.md` | GitHub Profile: abi-commits | https://github.com/abi-commits |
+| `github/github-profile-overview.md` | GitHub Profile: abinesh-u | https://github.com/abinesh-u |
 
 ### 1.4 Medium
 | File | Title | URL |
