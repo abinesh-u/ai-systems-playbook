@@ -213,7 +213,7 @@ Project named → evidence complete? → yes: map case study/diagram/links
 
 | Model | Formula / use |
 | --- | --- |
-| Content priority | weighted 0–100 model in `04-content-priority-engine.md` |
+| Content priority | weighted 0–100 model in this document (Content Priority Engine) |
 | SEO value | intent clarity + gap + authority support + linkability − cannibalization risk |
 | Technical depth | mechanism + trade-offs + failure modes + evidence + operational implications (0–5 each) |
 | Knowledge completeness | covered required leaves / defined required leaves × 100 |

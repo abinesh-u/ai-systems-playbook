@@ -2,7 +2,7 @@
 
 ## Phase 7: Quality Assurance
 - **Technical Review**: PASS. All claims are backed by `2026-02-20-systems-thinking-ai-engineers.md` and `2026-06-09-llm-production-checklist.md`. No hallucinations or unverified technical claims present.
-- **Editorial Review**: PASS. Follows the `08-pillar-page-standard.md`. Voice is precise, calm, direct.
+- **Editorial Review**: PASS. Follows the pillar standard in `knowledge-system/09-pillar-pages.md`. Voice is precise, calm, direct.
 - **Architecture Review**: PASS. Primary owner is AI Systems Engineering. Correctly links to the four main capability pillars.
 - **SEO Review**: PASS. Slug is `ai-systems-engineering`. Canonical URL is defined. Intent is clear.
 - **Accessibility Review**: PASS. Diagram specification (ASE-001) includes required alt text and text equivalents.
