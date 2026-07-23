@@ -1,0 +1,42 @@
+{
+  "id": "loop-engineering-flagship",
+  "status": "ready-for-draft",
+  "content_type": "pillar",
+  "owner": "AI System Architecture",
+  "title": "Loop Engineering: The Anatomy of Reliable Agentic AI",
+  "slug": "loop-engineering",
+  "seo": {
+    "intent": "Establish Loop Engineering as the outer control system that makes repeated agent work verifiable and stoppable.",
+    "description": "Why prompt engineering isn't enough to build autonomous systems that actually work in production, and how loop engineering adds the outer control system that guarantees execution.",
+    "canonical_url": "https://ai-systems-playbook.com/loop-engineering"
+  },
+  "evidence": {
+    "research_records": ["rr-005-harness-engineering"],
+    "archive_assets": [
+      "knowledge/linkedin/2026-02-20-systems-thinking-ai-engineers.md",
+      "knowledge/linkedin/2026-03-10-context-engineering-memory-mcp.md",
+      "knowledge/linkedin/2026-06-09-llm-production-checklist.md"
+    ],
+    "claim_limits": [
+      "Does not prescribe a specific agent framework",
+      "Does not address multimodal agent loops"
+    ]
+  },
+  "links": {
+    "parent": "AI System Architecture",
+    "related": ["Harness Engineering", "Context Engineering", "Production AI Systems"],
+    "references": ["glossary/ai-systems-engineering", "glossary/observability"]
+  },
+  "reviews": {
+    "technical": "pending",
+    "architecture": "pending",
+    "editorial": "pending",
+    "seo": "pending",
+    "readiness": "pending"
+  },
+  "publication": {
+    "diagram_plan": "Loop Engineering lifecycle diagram (TBD: see visual-library/specifications/ once authored)",
+    "project_integration": "Not applicable: no validated project relationship in archive",
+    "adaptation_notes": "Distill website articles, tutorials, and social media posts from this canonical pillar document."
+  }
+}

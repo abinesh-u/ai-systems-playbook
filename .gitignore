@@ -1,0 +1,20 @@
+# macOS Finder metadata
+.DS_Store
+**/.DS_Store
+
+# Editor / OS noise
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Local scratch
+.idea/
+.vscode/
+*.iml

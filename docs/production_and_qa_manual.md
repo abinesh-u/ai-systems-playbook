@@ -60,7 +60,7 @@ Purpose: create a canonical explanation or decision guide. Inputs: approved deci
 
 Required sections: outcome, scope, context, mechanism/decision, trade-offs/failure modes, related links, sources. Output: canonical Markdown plus publication package. Gates: evidence, architecture fit, editorial/SEO compliance, and review approval.
 
-Pillar pages use `08-pillar-page-standard.md`; an article does not become a pillar by length.
+Pillar pages follow `knowledge-system/09-pillar-pages.md`; an article does not become a pillar by length.
 
 ---
 

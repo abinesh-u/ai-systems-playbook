@@ -12,7 +12,7 @@
 
 ## Scoring method
 
-Scores apply `04-content-priority-engine.md`: strategic importance, authority, SEO, reader demand, gap closure, pillar support, project relevance, long-term and learning value, minus maintenance. All candidates are approved items from `10-article-roadmap.md` or frozen hubs.
+Scores apply the weighted 0–100 model in `docs/content_strategy_and_planning.md` (Content Priority Engine): strategic importance, authority, SEO, reader demand, gap closure, pillar support, project relevance, long-term and learning value, minus maintenance. All candidates are approved items from `10-article-roadmap.md` or frozen hubs.
 
 ## Coverage
 
